@@ -49,10 +49,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Compile Include="C:\Users\Super\Downloads\Universidad Todo\Sexto Semestre\Programacion IV\MauiProgram.cs" Link="MauiProgram.cs" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <MauiXaml Update="ViewsEscobar\InformacionEscobar.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
